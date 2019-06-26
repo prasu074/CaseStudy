@@ -1,0 +1,17 @@
+Problem statement:-
+There is a MNC Company known as CONTOSO where there are 12 officers all over the world.
+These officers have a plan to design and host a website which will help all the employees to access Customers Accounting related information anywhere across globe.
+So the task is to design a website for this MNC company which will have information about all the customers of company such that every employee of company when login should see the list of customers, Active customers, issues realted to their Acount update.
+
+Functional requirements:-
+1) Employee and customers should have different login Functionalities.
+2) customer should be able to raise complaint whenever required.
+3) customer can give feedback.
+4) customer can raise request for updation of account details.
+5) Empolyee should see the list of customers.
+6) Employee should be able to see the Account details of customers and able to modify the details whenever customer requests.
+
+Non-Functional requiremants:-
+1) website should handle maximum request.
+2) while handling multiple request the performance should not be affected.
+3) website shoud load should load quickly means responce of website should be quick.
